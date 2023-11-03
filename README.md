@@ -52,4 +52,20 @@
 (This command allows you to specify the floor level ("-f 1") and the version of ICP to use ("-v my_icp") for the reconstruction process.)
 
 ## Results
+(1) First floor scene model evaluation:
+![image](https://github.com/timmy168/Semantic-Map-Construction/blob/main/result/first_floor_eval.png)
 
+(2) Frist floor ground trouth map:
+![image](https://github.com/timmy168/Semantic-Map-Construction/blob/main/result/first_floor_gt.png)
+
+(3) Frist floor model semantic map:
+![image](https://github.com/timmy168/Semantic-Map-Construction/blob/main/result/first_floor_semantic.png)
+
+(1) Second floor scene model evaluation:
+![image](https://github.com/timmy168/Semantic-Map-Construction/blob/main/result/second_floor_eval.png)
+
+(2) Second floor ground trouth map:
+![image](https://github.com/timmy168/Semantic-Map-Construction/blob/main/result/second_floor_gt.png)
+
+(3) Second floor model semantic map:
+![image](https://github.com/timmy168/Semantic-Map-Construction/blob/main/result/second_floor_semantic.png)
